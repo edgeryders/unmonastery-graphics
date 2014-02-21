@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64.001px" height="64px" viewBox="0 0 64.001 64" enable-background="new 0 0 64.001 64" xml:space="preserve">
+<g>
+	<rect x="-320.19" y="-102.674" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="459" height="239"/>
+</g>
+<g id="energie">
+	<g>
+		<defs>
+			<circle id="WInd_2_" cx="32" cy="32" r="32"/>
+		</defs>
+		<clipPath id="WInd_3_">
+			<use xlink:href="#WInd_2_"  overflow="visible"/>
+		</clipPath>
+		<g id="windIcon" clip-path="url(#WInd_3_)">
+			<circle id="WInd_1_" fill="#00AEEF" cx="32" cy="32" r="32"/>
+		</g>
+	</g>
+	<g id="windmill">
+		<path fill="#D1D3D4" d="M32.466,34.063c-0.247,0-0.482-0.035-0.697-0.144l-1.552,24.907h4.305l-0.98-23.966
+			c-0.086-0.376-0.161-0.739-0.226-1.052C33.061,33.973,32.775,34.063,32.466,34.063z"/>
+		<path fill="#FFFFFF" d="M56.23,44.728L34.267,32.787c0.14-0.286,0.223-0.602,0.223-0.938c0-0.799-0.444-1.495-1.108-1.892
+			c1.788-1.649,5.101-4.969,4.924-6.792c-1.581-4.941-4.686-14.644-5.701-17.816c-0.209-0.654-0.764,0.273-0.764,0.273l0.072,24.006
+			c-1.174,0.101-2.096,1.007-2.141,2.136c-2.4-0.643-7.092-1.704-8.669-0.647c-3.724,3.769-11.036,11.169-13.426,13.588
+			c-0.493,0.499,0.632,0.49,0.632,0.49l21.89-12.058c0.257,0.344,0.61,0.617,1.026,0.781c0.278,0.109,0.582,0.171,0.902,0.171
+			c0.399,0,0.769-0.103,1.099-0.268c0.083,0.312,0.181,0.661,0.292,1.037c0.703,2.381,1.937,5.743,3.453,6.405
+			c5.305,1.173,15.722,3.475,19.127,4.228C56.8,45.648,56.23,44.728,56.23,44.728z"/>
+	</g>
+</g>
+</svg>
